@@ -39,3 +39,5 @@ return cats.slice(0,-1);
 function removeFirstCat(){
     return cats.slice(1);
     }
+
+    
